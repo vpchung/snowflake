@@ -82,7 +82,7 @@ mc2_center.prefetch()
     tab_browser,
     tab_users,
     tab_mc2_center,
-) = st.tabs(["Overview", "Trends", "Datasets", "Files Browser", "External Users", "MC2 Center Project"])
+) = st.tabs(["📊 Overview", "📈 Trends", "🗂️ Datasets", "📁 Files Browser", "👥 External Users", "🔬 MC2 Center Project"])
 
 
 with tab_overview:
